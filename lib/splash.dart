@@ -273,7 +273,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                           highlightColor: Colors.transparent,
                                           onPressed: () {
                                             Clipboard.setData(new ClipboardData(
-                                                text: '${n[0]}'));
+                                                text: '${n[1]}'));
                                             ScaffoldMessenger.of(context)
                                                 .removeCurrentSnackBar();
                                             ScaffoldMessenger.of(context)
