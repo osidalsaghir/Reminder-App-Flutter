@@ -18,3 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 # Screenshots from the app 
 
 ![Image 1](https://github.com/osidalsaghir/Reminder-App-Flutter/blob/master/Screenshot_1622049109.png)
+![Image 1](https://github.com/osidalsaghir/Reminder-App-Flutter/blob/master/Screenshot_1622049291.png)
