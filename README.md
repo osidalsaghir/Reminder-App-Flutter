@@ -17,10 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 # Screenshots from the app 
 
-
-<img
-src=“https://github.com/osidalsaghir/Reminder-App-Flutter/blob/master/Screenshot_1622049109.png
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+![Image 1](https://github.com/osidalsaghir/Reminder-App-Flutter/blob/master/Screenshot_1622049109.png)
